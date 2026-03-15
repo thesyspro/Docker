@@ -183,10 +183,13 @@ MODULE 12: Monitoring (Advanced)
 Prometheus + Grafana with Docker
 Logging using ELK
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 MODULE 12: Capstone Projects (Advanced)
+
 Project 1: Deploy Full Stack App on Docker
+
 Project 2: Create CI/CD pipeline with Docker + Jenkins
+
 Project 3: Multi-container app with DB, cache, web
+
 Project 4: Setup private Docker Registry + Security scanning with Trivy
